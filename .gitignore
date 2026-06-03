@@ -1,0 +1,11 @@
+# Ignore the CMake build folder
+/build/
+
+# Ignore compiled executables and objects
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Ignore VS Code local settings
+.vscode/
